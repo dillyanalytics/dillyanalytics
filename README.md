@@ -1,35 +1,36 @@
-<h1>Hi, I'm Ha (Dilly)!  <br/>L&D transitioning to Data Analyst</h1>
+<h1>Hi, I'm Ha (Dilly)!  <br/>Workforce Analytics & Data Visualization</h1>
 
-<h2>👨‍💻 Power BI/Tableau:</h2>
-
-- [Succession Planning Dashboard](https://github.com/hatr201610-cyber/Talent-Succession-Dashboard.git)<b>
-- [Netflix Summary Dashboard](https://github.com/hatr201610-cyber/Netflix-Shows-Films-Dashboard-Tableau.git)<b>
+## Currently focused on:
+- Dashboard Development
+- Reporting Automation
+- HR Process Optimization
   
-<h2>👨‍💻 Power App:</h2>
+## Tech Stack
 
-- [Attendance Marking App](https://github.com/hatr201610-cyber/Attendance-Marking-App.git)<b><i>
+Power BI • SQL • Tableau • Power Apps • Power Automate • SharePoint • BigQuery ML
 
-<h2>👨‍💻 Machine Learning:</h2>
+<h2>📊 Analytics Dashboards:</h2>
 
-- [Employee Attrition Forecast](https://github.com/hatr201610-cyber/Employee-Attrition-Forecast-Google-Big-Query.git)<b><i>
-    
+- [Talent Succession Dashboard](https://github.com/hatr201610-cyber/Talent-Succession-Dashboard.git)<b>
+- [Netflix Content Analytics Dashboard](https://github.com/hatr201610-cyber/Netflix-Shows-Films-Dashboard-Tableau.git)<b>
+  
+<h2>⚙️ Workflow Automation:</h2>
+
+- [Onboarding Attendance Management App](https://github.com/hatr201610-cyber/Attendance-Marking-App.git)<b><i>
+
+<h2>🤖 Predictive Analytics:</h2>
+
+- [Employee Attrition Prediction Model](https://github.com/hatr201610-cyber/Employee-Attrition-Forecast-Google-Big-Query.git)<b><i>
+
+## Certifications
+
+- IELTS 7.0
+- TOEIC 950
+- Certification from the University of Social Science for Data Analytis
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/ha-tran-878284186
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
