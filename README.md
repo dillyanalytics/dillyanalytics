@@ -26,11 +26,13 @@ Power BI • SQL • Tableau • Power Apps • Power Automate • SharePoint �
 
 - IELTS 7.0
 - TOEIC 950
-- Certification from the University of Social Science for Data Analytis
+- [Certificates from University of Social Science for Data Analytics](https://github.com/dillyanalytics/Certificates.git)<b><i>
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dilly Tran| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dilly Tran| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
 
 [linkedin]: www.linkedin.com/in/ha-tran-878284186
+[email]: hatr201610@gmail.com
 
