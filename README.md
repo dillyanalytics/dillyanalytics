@@ -16,17 +16,17 @@ Power BI • SQL • Tableau • Power Apps • Power Automate • SharePoint �
   
 <h2>⚙️ Workflow Automation:</h2>
 
-- [Onboarding Attendance Management App](https://github.com/hatr201610-cyber/Attendance-Marking-App.git)<b><i>
+- [Onboarding Attendance Management App](https://github.com/hatr201610-cyber/Attendance-Marking-App.git)<b>
 
 <h2>🤖 Predictive Analytics:</h2>
 
-- [Employee Attrition Prediction Model](https://github.com/hatr201610-cyber/Employee-Attrition-Forecast-Google-Big-Query.git)<b><i>
+- [Employee Attrition Prediction Model](https://github.com/hatr201610-cyber/Employee-Attrition-Forecast-Google-Big-Query.git)<b>
 
 ## Certifications
 
 - IELTS 7.0
 - TOEIC 950
-- [Certificates from University of Social Science for Data Analytics](https://github.com/dillyanalytics/Certificates.git)<b><i>
+- [Certificates from University of Social Science for Data Analytics](https://github.com/dillyanalytics/Certificates.git)<b>
   
 <h2> 🤳 Connect with me:</h2>
 
